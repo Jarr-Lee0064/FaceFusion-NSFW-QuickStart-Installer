@@ -1,5 +1,30 @@
-FaceFusion
-==========
+FaceFusion-NSFW-QuickStart
+==========================
+
+🚀 One-Click NSFW Face Swapping, Unleash the Model! 🚀
+
+**Introduction**
+
+FaceFusion-NSFW-QuickStart is a powerful face swapping tool designed to remove the safety restrictions of common models, allowing you to create freely. This project provides a one-click installer for Windows and macOS, making it easy to get started without complex configuration.
+
+**Key Features**
+
+*   **One-Click Installation:** Provides one-click installers for Windows and macOS to simplify the deployment process. Download here:
+    *   [Windows Installer](https://buymeacoffee.com/alistaitsco)
+    *   [macOS Installer](https://buymeacoffee.com/alistaitsco)
+*   **Unrestricted Models:** Break free from model limitations and unleash your creativity.
+*   **Quick Start:** Intuitive user interface and clear documentation to help you get up and running quickly.
+*   **High-Quality Face Swapping:** Utilizes advanced algorithms to generate realistic face swapping results.
+
+**Getting Started**
+
+1.  Download the installer for your operating system.
+2.  Run the installer and follow the prompts.
+3.  Launch FaceFusion-NSFW-QuickStart and begin your creative journey!
+
+**Disclaimer**
+
+This project is for learning and research purposes only. Please do not use it for illegal or unethical purposes.
 
 > Industry leading face manipulation platform.
 
@@ -17,7 +42,7 @@ Preview
 Installation
 ------------
 
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](http://windows-installer.facefusion.io) and [macOS Installer](http://macos-installer.facefusion.io) get you started.
+Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/alistaitsco) and [macOS Installer](https://buymeacoffee.com/alistaitsco) get you started.
 
 
 Usage
