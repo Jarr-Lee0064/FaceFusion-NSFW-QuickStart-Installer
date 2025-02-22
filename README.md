@@ -10,8 +10,8 @@ FaceFusion-NSFW-QuickStart is a powerful face swapping tool designed to remove t
 **Key Features**
 
 *   **One-Click Installation:** Provides one-click installers for Windows and macOS to simplify the deployment process. Download here:
-    *   [Windows Installer](https://buymeacoffee.com/alistaitsco)
-    *   [macOS Installer](https://buymeacoffee.com/alistaitsco)
+    *   [Windows Installer](https://buymeacoffee.com/clarkaicc)
+    *   [macOS Installer](https://buymeacoffee.com/clarkaicc)
 *   **Unrestricted Models:** Break free from model limitations and unleash your creativity.
 *   **Quick Start:** Intuitive user interface and clear documentation to help you get up and running quickly.
 *   **High-Quality Face Swapping:** Utilizes advanced algorithms to generate realistic face swapping results.
@@ -42,7 +42,7 @@ Preview
 Installation
 ------------
 
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/alistaitsco) and [macOS Installer](https://buymeacoffee.com/alistaitsco) get you started.
+Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](hhttps://buymeacoffee.com/clarkaicc) and [macOS Installer](https://buymeacoffee.com/clarkaicc) get you started.
 
 
 Usage
