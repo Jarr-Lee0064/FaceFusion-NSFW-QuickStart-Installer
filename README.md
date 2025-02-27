@@ -1,7 +1,7 @@
 FaceFusion-NSFW-QuickStart
 ==========================
 
-🚀 One-Click NSFW Face Swapping, Unleash the Model! 🚀
+One-Click NSFW Face Swapping, Unleash the Model!
 
 **Introduction**
 
@@ -22,6 +22,28 @@ FaceFusion-NSFW-QuickStart is a powerful face swapping tool designed to remove t
 2.  Run the installer and follow the prompts.
 3.  Launch FaceFusion-NSFW-QuickStart and begin your creative journey!
 
+Installation Demo
+------------
+
+Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/clarkaicc) and [macOS Installer](https://buymeacoffee.com/clarkaicc) get you started.
+
+**Installation Demo**
+
+Here is a demonstration of the one-click installation process on Windows:
+
+<video width="640" height="480" controls>
+  <source src="./Windows_Installer_Facefusion.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+    
+----------
+
+**Online Test**
+
+You can simply and conveniently try FaceFusion online here: [Facefusion Online Test](https://facefuion.xinzhiaigc.com/)
+
+
 **Disclaimer**
 
 This project is for learning and research purposes only. Please do not use it for illegal or unethical purposes.
@@ -37,12 +59,6 @@ Preview
 -------
 
 ![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
-
-
-Installation
-------------
-
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](hhttps://buymeacoffee.com/clarkaicc) and [macOS Installer](https://buymeacoffee.com/clarkaicc) get you started.
 
 
 Usage
@@ -76,6 +92,9 @@ commands:
     job-run-all                                   run all queued jobs
     job-retry                                     retry a failed job
     job-retry-all                                 retry all failed jobs
+```
+
+
 ```
 
 
