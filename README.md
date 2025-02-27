@@ -16,6 +16,11 @@ FaceFusion-NSFW-QuickStart is a powerful face swapping tool designed to remove t
 *   **Quick Start:** Intuitive user interface and clear documentation to help you get up and running quickly.
 *   **High-Quality Face Swapping:** Utilizes advanced algorithms to generate realistic face swapping results.
 
+**Support**
+
+If you need further assistance, please contact us at alistaitscale@gmail.com.
+
+
 **Getting Started**
 
 1.  Download the installer for your operating system.
