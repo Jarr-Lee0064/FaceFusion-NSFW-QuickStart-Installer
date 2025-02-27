@@ -14,6 +14,9 @@ EXECUTION_PROVIDERS_CHECKBOX_GROUP : Optional[gradio.CheckboxGroup] = None
 def render() -> None:
 	global EXECUTION_PROVIDERS_CHECKBOX_GROUP
 
+	if not state_manager.get_item('execution_providers'):
+		state_manager.set_item('execution_providers', ['cuda'])
+
 	EXECUTION_PROVIDERS_CHECKBOX_GROUP = gradio.CheckboxGroup(
 		label = wording.get('uis.execution_providers_checkbox_group'),
 		choices = get_available_execution_providers(),
