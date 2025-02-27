@@ -31,10 +31,8 @@ Be aware, the [installation](https://docs.facefusion.io/installation) needs tech
 
 Here is a demonstration of the one-click installation process on Windows:
 
-<video width="640" height="480" controls>
-  <source src="./Windows_Installer_Facefusion.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Installation Demo](./resource/01.png)](https://youtu.be/gLxoR0XmJcc)
+
 
     
 ----------
