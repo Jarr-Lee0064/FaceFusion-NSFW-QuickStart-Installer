@@ -1,4 +1,4 @@
-FaceFusion-NSFW-QuickStart
+winget install -e --id Git.GitFaceFusion-NSFW-QuickStart
 ==========================
 
 One-Click NSFW Face Swapping, Unleash the Model!
